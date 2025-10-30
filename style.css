@@ -1,0 +1,97 @@
+/* ====== ESTILO GERAL ====== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+  }
+  
+  /* ====== CABEÇALHO ====== */
+  header {
+    background-color: #161b22;
+    text-align: center;
+    padding: 25px 0;
+    border-bottom: 2px solid #21262d;
+  }
+  
+  header h1 {
+    color: #58a6ff;
+    font-size: 32px;
+  }
+  
+  /* ====== SEÇÕES ====== */
+  section {
+    width: 800px;
+    margin: 40px auto;
+  }
+  
+  h2 {
+    color: #58a6ff;
+    margin-bottom: 10px;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 1.6em;
+    color: #c9d1d9;
+  }
+  
+  ul {
+    margin-left: 20px;
+    list-style: none;
+  }
+  
+  /* ====== PROJETOS ====== */
+  .projeto {
+    background-color: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 15px;
+  }
+  
+  .projeto h3 {
+    color: #58a6ff;
+  }
+  
+  .projeto a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+  
+  .projeto a:hover {
+    text-decoration: underline;
+  }
+  
+  /* ====== LINHA DIVISÓRIA ====== */
+  hr {
+    border: 0;
+    border-top: 1px solid #21262d;
+    width: 80%;
+    margin: 40px auto;
+  }
+  
+  /* ====== CONTATO ====== */
+  #contato a {
+    color: #58a6ff;
+  }
+  
+  #contato a:hover {
+    text-decoration: underline;
+  }
+  
+  /* ====== RODAPÉ ====== */
+  footer {
+    background-color: #161b22;
+    color: #8b949e;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    border-top: 2px solid #21262d;
+  }
+  
