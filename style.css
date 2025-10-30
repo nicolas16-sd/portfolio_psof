@@ -88,3 +88,70 @@
     border-top: 2px solid #21262d;
   }
   
+@media (max-width: 900px) {
+  section {
+    width: 90%;
+  }
+
+  header h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  p, li {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 600px) {
+  header {
+    padding: 20px 0;
+  }
+
+  header h1 {
+    font-size: 24px;
+  }
+
+  section {
+    width: 95%;
+    margin: 30px auto;
+  }
+
+  .projeto {
+    padding: 15px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  p, li {
+    font-size: 14px;
+  }
+
+  hr {
+    width: 90%;
+  }
+}
+
+@media (max-width: 400px) {
+  header h1 {
+    font-size: 20px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  p, li {
+    font-size: 13px;
+  }
+
+  footer {
+    font-size: 13px;
+    padding: 15px;
+  }
+}
