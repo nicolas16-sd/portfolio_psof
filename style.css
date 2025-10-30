@@ -1,4 +1,3 @@
-/* ====== ESTILO GERAL ====== */
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +10,6 @@
     color: #c9d1d9;
   }
   
-  /* ====== CABEÇALHO ====== */
   header {
     background-color: #161b22;
     text-align: center;
@@ -24,7 +22,6 @@
     font-size: 32px;
   }
   
-  /* ====== SEÇÕES ====== */
   section {
     width: 800px;
     margin: 40px auto;
@@ -46,7 +43,6 @@
     list-style: none;
   }
   
-  /* ====== PROJETOS ====== */
   .projeto {
     background-color: #161b22;
     border: 1px solid #21262d;
@@ -68,7 +64,6 @@
     text-decoration: underline;
   }
   
-  /* ====== LINHA DIVISÓRIA ====== */
   hr {
     border: 0;
     border-top: 1px solid #21262d;
@@ -76,7 +71,6 @@
     margin: 40px auto;
   }
   
-  /* ====== CONTATO ====== */
   #contato a {
     color: #58a6ff;
   }
@@ -85,7 +79,6 @@
     text-decoration: underline;
   }
   
-  /* ====== RODAPÉ ====== */
   footer {
     background-color: #161b22;
     color: #8b949e;
